@@ -2,7 +2,8 @@ import random
 
 display_messages = [
     'Seja Feliz :)',
-    'Fique tranquilo, tudo vai dar certo!'
+    'Fique tranquilo, tudo vai dar certo!',
+    'aasaasdsdsadsa'
 ]
 
 while True:
